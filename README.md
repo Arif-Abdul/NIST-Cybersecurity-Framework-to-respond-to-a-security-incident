@@ -27,6 +27,13 @@ Using the National Institute of Standards and Technology (NIST) Cybersecurity Fr
 - **Respond:** What response strategies should be in place to contain and mitigate the attack?
 - **Recover:** How should the organization restore normal operations and improve resilience?
 
+## Incident Report Analysis
+
+You can view the detailed incident report analysis applying the NIST Cybersecurity Framework to the DDoS attack scenario here:
+
+[Incident Report Analysis (PDF)](https://github.com/Arif-Abdul/NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/blob/main/Incident%20Report%20Analysis.pdf)
+
+
 ---
 
 *Use this scenario as the basis for your incident report and analysis, applying the NIST CSF framework.*
