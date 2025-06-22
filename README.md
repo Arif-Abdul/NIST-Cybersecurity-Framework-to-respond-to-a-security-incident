@@ -1,5 +1,3 @@
-# NIST-Cybersecurity-Framework-to-respond-to-a-security-incident
-
 # NIST Cybersecurity Framework Applied: Incident Response to a DDoS Attack
 
 ## Background
