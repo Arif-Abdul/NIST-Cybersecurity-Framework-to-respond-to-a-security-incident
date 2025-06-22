@@ -36,7 +36,7 @@ You can view the detailed incident report analysis applying the NIST Cybersecuri
 
 ---
 
-*Use this scenario as the basis for your incident report and analysis, applying the NIST CSF framework.*
+*Used this scenario as the basis for my incident report and analysis, applying the NIST CSF framework.*
 
 ---
 
