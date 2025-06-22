@@ -1,12 +1,12 @@
 # NIST-Cybersecurity-Framework-to-respond-to-a-security-incident
 
-# Incident Scenario: DDoS Attack on Multimedia Company Network
+# NIST Cybersecurity Framework Applied: Incident Response to a DDoS Attack
 
 ## Background
-A cybersecurity analyst at a multimedia company providing web design, graphic design, and social media marketing services to small businesses. Recently, the company experienced a cybersecurity incident that impacted its internal network.
+You are a cybersecurity analyst at a multimedia company providing web design, graphic design, and social media marketing services to small businesses. Recently, the company experienced a cybersecurity incident impacting its internal network.
 
 ## Incident Description
-The company’s network services suddenly became unresponsive for approximately two hours. An investigation revealed a distributed denial-of-service (DDoS) attack launched through a flood of ICMP packets. This flood overwhelmed the internal network and blocked normal traffic from accessing critical network resources.
+The company’s network services suddenly became unresponsive for approximately two hours. Investigation revealed a distributed denial-of-service (DDoS) attack launched through a flood of ICMP packets. This flood overwhelmed the internal network and blocked normal traffic from accessing critical network resources.
 
 ## Key Details
 - The attack exploited an unconfigured firewall that allowed unlimited incoming ICMP traffic.
@@ -32,3 +32,9 @@ Using the National Institute of Standards and Technology (NIST) Cybersecurity Fr
 ---
 
 *Use this scenario as the basis for your incident report and analysis, applying the NIST CSF framework.*
+
+---
+
+### References
+- [NIST Special Publication 800-61 Revision 2: Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
